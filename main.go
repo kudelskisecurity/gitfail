@@ -65,7 +65,6 @@ func main() {
 		}
 		go handleRequest(conn, sChunked)
 	}
-
 }
 
 func handleRequest(conn net.Conn, sChunked []string) {
