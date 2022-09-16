@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	CONN_HOST  = "localhost"
+	CONN_HOST  = "0.0.0.0"
 	CONN_PORT  = "1337"
 	CONN_TYPE  = "tcp"
 	DNS_RECORD = "The flag is not here, you should enumerate (passively) more, try harder!"
