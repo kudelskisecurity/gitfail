@@ -1,2 +1,3 @@
 # gitfail
-Just testing nothing facing here
+
+Because git happens ! ✨
